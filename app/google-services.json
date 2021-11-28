@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910682436417",
+    "project_id": "shoppable-6fda4",
+    "storage_bucket": "shoppable-6fda4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910682436417:android:ba1a6b482ec2321b5127c0",
+        "android_client_info": {
+          "package_name": "com.example.shoppable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910682436417-1ea5rra1bl703e78o3p4ct0ps655d8m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEWTTvc0BUO6haTJjLogvi5JW002DvTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910682436417-1ea5rra1bl703e78o3p4ct0ps655d8m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
